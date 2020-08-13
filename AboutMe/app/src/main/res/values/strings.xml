@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="sun_cheng">Sun Cheng</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Android Kotlin
+        \n
+        基础知识带领您完成一系列代码实验室，
+        \n
+        教您在Kotlin中构建Android应用程序的基本知识。您还将学习如何使用Android Jetpack组件，例如用于数据库的Room，用于后台处理的Work Manager，新的Navigation组件等等。要学习本课程，我们建议您熟悉Kotlin编程语言的基础知识，并且至少有两年的面向对象编程语言经验。</string>
+    <string name="What_is_your_name">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
